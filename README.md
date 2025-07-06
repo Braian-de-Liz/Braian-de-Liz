@@ -1,8 +1,13 @@
-Eu sou estudante da Escola SESI de Referência do 3º ano
+## Sobre Mim
 
-Atual Foco em aprender desenvolvimento WEB
--HTML
--CSS
--Javascript
+Sou estudante do 3º ano da Escola SESI de Referência.
 
-POR ENQUANTO
+### 📚 Foco Atual
+
+Atualmente estou focado em aprender **Desenvolvimento Web**, com ênfase nas seguintes tecnologias:
+
+- HTML  
+- CSS  
+- JavaScript  
+
+**(por enquanto)**
