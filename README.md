@@ -11,3 +11,8 @@ Atualmente estou focado em aprender **Desenvolvimento Web**, com ênfase nas seg
 - JavaScript  
 
 **(por enquanto)**
+
+Estarei inicioando em 
+
+-C#
+-PHP
