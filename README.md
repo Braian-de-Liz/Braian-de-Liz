@@ -12,7 +12,7 @@ Atualmente estou focado em aprender **Desenvolvimento Web**, com ênfase nas seg
 
 **(por enquanto)**
 
-Estarei inicioando em 
+Em breve, estarei iniciando os estudos em:
 
--C#
--PHP
+- C#  
+- PHP
