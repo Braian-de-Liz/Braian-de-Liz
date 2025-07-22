@@ -8,7 +8,8 @@ Atualmente estou focado em aprender **Desenvolvimento Web**, com ênfase nas seg
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- Node.JS
 
 **(por enquanto)**
 
