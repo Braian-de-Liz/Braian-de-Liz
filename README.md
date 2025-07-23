@@ -5,7 +5,7 @@ Sou estudante do 3º ano da Escola SESI de Referência.
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&layout=compact&theme=dark&hide_border=true)
+![Top Langs](	https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=panda&layout=compact&hide_border=true)
 
 ### Foco Atual
 
