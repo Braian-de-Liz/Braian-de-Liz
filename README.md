@@ -24,3 +24,4 @@ Em breve, estarei iniciando os estudos em:
 
 - C#  
 - PHP
+- Python
