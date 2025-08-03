@@ -1,28 +1,48 @@
-## Sobre Mim
+# 👋 Sobre Mim
 
-Sou estudante do 3º ano da Escola SESI de Referência.
+Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por tecnologia e em constante evolução no mundo da programação.
 
+---
 
 ## 📊 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true)
 
 
-### Foco Atual
 
 
-## 🛠 Foco Atual
-Atualmente mergulhado no **Desenvolvimento Web**:
+---
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+## 🛠️ Foco Atual
 
-**(por enquanto)**
+Atualmente mergulhado no **Desenvolvimento Web**, utilizando as seguintes tecnologias:
 
-Em breve, estarei iniciando os estudos em:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20"/> **HTML5**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20"/> **CSS3**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js**
 
-- C#  
-- PHP
-- Python
+> **(por enquanto!)**
+
+---
+
+## 📚 Próximos Estudos
+
+Estou animado para iniciar em breve os estudos nas seguintes linguagens:
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20"/> **C#**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20"/> **PHP**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python**
+
+---
+
+## 🚀 Vamos nos conectar?
+
+Se quiser bater um papo, tirar dúvidas ou colaborar em projetos, me chame por:
+
+- 📧 **E-mail:** [delizbraian@gmail.com](mailto:delizbraian@gmail.com)  
+- 📱 **WhatsApp/Telefone:** +55 (47) 93380-3828  
+- 🌐 **Portfólio Online:** [construindo-o-portfolio-braian-de-liz.onrender.com](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html)
+
+---
+
