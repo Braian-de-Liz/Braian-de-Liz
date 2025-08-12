@@ -33,7 +33,7 @@ Estou animado para iniciar em breve os estudos nas seguintes linguagens:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20"/> **C#**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20"/> **PHP**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python**
-- <img src="https://cnd.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/> **Typescript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/> **Typescript**
 
 ---
 
