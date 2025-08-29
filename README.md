@@ -1,4 +1,4 @@
-# 👋 Sobre Mim
+# Sobre Mim
 
 Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por tecnologia e em constante evolução no mundo da programação.
 
