@@ -9,8 +9,6 @@ Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true)
 
 
-
-
 ---
 
 ## 🛠️ Foco Atual
@@ -23,13 +21,14 @@ Atualmente mergulhado no **Desenvolvimento Web**, utilizando as seguintes tecnol
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20"/> **PHP**
 
+
 > **(por enquanto!)**
 
 ---
 
 ## 📚 Próximos Estudos
 
-Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibliotécas:
+Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibliotecas:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20"/> **C#**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python**
@@ -37,6 +36,16 @@ Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibli
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> **React**
 
 ---
+
+
+## 💼 Projetos em Destaque
+
+- 🎯 [Portfólio Pessoal](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html) – Meu primeiro site completo com HTML, CSS e JS.
+- 🧩 [Calculadora Web] – Em breve no GitHub!
+- 📝 [To-Do List] – Em breve no GitHub!
+
+---
+
 
 ## 🚀 Vamos nos conectar?
 
