@@ -40,11 +40,22 @@ Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibli
 
 ## 💼 Projetos em Destaque
 
-- 🎯 [Portfólio Pessoal](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html) – Meu primeiro site completo com HTML, CSS e JS.
-- 🧩 [Calculadora Web] – Em breve no GitHub!
-- 📝 [To-Do List] – Em breve no GitHub!
+Projetos que demonstam minha evolução no desenvolvimento web, desde interfaces estáticas até aplicações full-stack com comunicação em tempo real.
 
----
+- 🔥 **[Chat Funcional (Full-Stack)](https://github.com/Braian-de-Liz/chat-funcional)**  
+  Um chat em tempo real feito com **Node.js** e **WebSocket (`ws`)** no backend, e **HTML, CSS, JavaScript** no frontend.  
+  ✅ Deploy separado para frontend e backend  
+  ✅ Comunicação bidirecional em tempo real  
+  ✅ Sem uso de Socket.IO — implementado com WebSocket puro  
+  → Um dos meus maiores aprendizados até agora!
+
+- 🌐 **[Portfólio Pessoal](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html)**  
+  Site completo com seções de sobre, projetos e contato. Primeiro projeto hospedado com Render, mostrando minha trajetória.
+
+- 🧮 **[Calculadora Web](https://github.com/Braian-de-Liz/calculadora-web)**  
+  Calculadora interativa com JavaScript puro. Boa prática para manipulação de eventos e DOM.
+
+> 🚀 Próximos passos: explorar APIs, React, autenticação e bancos de dados!
 
 
 ## 🚀 Vamos nos conectar?
