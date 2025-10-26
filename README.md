@@ -4,9 +4,21 @@ Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por
 
 ---
 
-## 📊 Linguagens Mais Usadas
+## 📊 Atividades no Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true)
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Linguagens Mais Usadas</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true" alt="Top Langs">
+    </td>
+    <td align="center">
+      <strong>Estatísticas Gerais</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Braian-de-Liz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    ></td>
+  </tr>
+</table
 
 
 ---
@@ -39,16 +51,27 @@ Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibli
 ---
 
 
-## 💼 Projetos em Destaque
+### 💼 Projetos em Destaque
 
-Projetos que demonstam minha evolução no desenvolvimento web, desde interfaces estáticas até aplicações full-stack com comunicação em tempo real.
+Projetos que demonstram minha evolução no desenvolvimento web, desde interfaces estáticas até **aplicações full-stack complexas com arquitetura de microserviços e comunicação em tempo real**.
+
+- 🚆 **[TCHUU-TCHUU - Sistema de Gerenciamento de Ferroramas](https://github.com/Braian-de-Liz/Tchuu-Tchuu)**  
+  Projeto integrado e funcional para gerenciar trens, usuários e rotas ferroviárias.  
+  ✅ **Arquitetura de Microserviços (Front-end, Back-end Node.js, Banco de Dados separados)**  
+  ✅ **Autenticação de Usuários (JWT, bcrypt)**  
+  ✅ **CRUD completo para Usuários e Trens**  
+  ✅ **Chat em tempo real entre usuários (WebSocket)**  
+  ✅ **Integração com Banco de Dados Relacional (PostgreSQL via Neon.tech)**  
+  ✅ **Segurança (CORS, variáveis de ambiente, criptografia de senha)**  
+  ✅ **Deploy contínuo em nuvem (Render, Neon.tech)**  
+  → Meu maior e mais importante projeto até agora, demonstrando **trabalho em equipe**, **escalabilidade** e **aplicação de boas práticas de engenharia de software**.
 
 - 🔥 **[Chat Funcional (Full-Stack)](https://github.com/Braian-de-Liz/chat-funcional)**  
   Um chat em tempo real feito com **Node.js** e **WebSocket (`ws`)** no backend, e **HTML, CSS, JavaScript** no frontend.  
   ✅ Deploy separado para frontend e backend  
   ✅ Comunicação bidirecional em tempo real  
   ✅ Sem uso de Socket.IO — implementado com WebSocket puro  
-  → Um dos meus maiores aprendizados até agora!
+  → Um dos meus primeiros grandes aprendizados com comunicação real-time!
 
 - 🌐 **[Portfólio Pessoal](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html)**  
   Site completo com seções de sobre, projetos e contato. Primeiro projeto hospedado com Render, mostrando minha trajetória.
@@ -56,7 +79,9 @@ Projetos que demonstam minha evolução no desenvolvimento web, desde interfaces
 - 🧮 **[Calculadora Web](https://github.com/Braian-de-Liz/calculadora-web)**  
   Calculadora interativa com JavaScript puro. Boa prática para manipulação de eventos e DOM.
 
-> 🚀 Próximos passos: explorar APIs, React, autenticação e bancos de dados!
+> 🚀 Próximos passos: explorar frameworks modernos (React, Angular), linguagens como Python e C#, e aprofundar conhecimento em arquitetura de software!
+
+
 
 
 ## 🚀 Vamos nos conectar?
