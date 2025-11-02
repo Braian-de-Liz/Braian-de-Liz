@@ -6,7 +6,6 @@ Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por
 
 ## 📊 Atividades no Github
 
-
 <table>
   <tr>
     <td align="center">
@@ -18,8 +17,7 @@ Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por
       <img src="https://github-readme-stats.vercel.app/api?username=Braian-de-Liz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
     ></td>
   </tr>
-</table
-
+</table>
 
 ---
 
@@ -32,7 +30,7 @@ Atualmente mergulhado no **Desenvolvimento Web**, utilizando as seguintes tecnol
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> **JavaScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20"/> **PHP**
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="20"/> **Express**
 
 > **(por enquanto!)**
 
@@ -47,9 +45,10 @@ Estou animado para iniciar em breve os estudos nas seguintes linguagens ou bibli
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/> **Typescript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="GO" width="20"/> **GO**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> **React**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" width="20"/> **Fastify**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="20"/> **Nest.js**
 
 ---
-
 
 ### 💼 Projetos em Destaque
 
@@ -79,10 +78,9 @@ Projetos que demonstram minha evolução no desenvolvimento web, desde interface
 - 🧮 **[Calculadora Web](https://github.com/Braian-de-Liz/calculadora-web)**  
   Calculadora interativa com JavaScript puro. Boa prática para manipulação de eventos e DOM.
 
-> 🚀 Próximos passos: explorar frameworks modernos (React, Angular), linguagens como Python e C#, e aprofundar conhecimento em arquitetura de software!
+> 🚀 Próximos passos: explorar frameworks modernos (React, Angular, Nest.js), linguagens como Python e C#, e aprofundar conhecimento em arquitetura de software!
 
-
-
+---
 
 ## 🚀 Vamos nos conectar?
 
@@ -90,7 +88,7 @@ Se quiser bater um papo, tirar dúvidas ou colaborar em projetos, me chame por:
 
 - 📧 **E-mail:** [delizbraian@gmail.com](mailto:delizbraian@gmail.com)  
 - 📱 **WhatsApp/Telefone:** +55 (47) 93380-3828  
+- 💼 **LinkedIn:** [Braian De Liz da Silva](https://www.linkedin.com/in/braian-de-liz-da-silva-47385038b)  
 - 🌐 **Portfólio Online:** [construindo-o-portfolio-braian-de-liz.onrender.com](https://construindo-o-portfolio-braian-de-liz.onrender.com/HTML/index.html)
 
 ---
-
