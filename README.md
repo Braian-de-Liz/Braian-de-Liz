@@ -40,7 +40,6 @@ Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
 ## 📚 Próximos Estudos
 
 Expandindo meu conhecimento técnico para novas ferramentas:
-## 📚 Próximos Estudos
 
 - <img src="https://bun.sh/logo.svg" alt="Bun" width="20"/> **Bun**  Exploração de novos runtimes e automação de pacotes.
 - <img src="https://raw.githubusercontent.com/elysiajs/elysia/main/assets/elysia_lucia.png" alt="Elysia" width="20"/> **ElysiaJS**  Framework focado em performance extrema e integração nativa com Bun.
