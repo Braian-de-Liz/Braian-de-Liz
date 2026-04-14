@@ -58,7 +58,6 @@ Expandindo meu conhecimento técnico para novas ferramentas:
 - 🚆 **[TCHUU-TCHUU - Sistema de Gerenciamento de Ferroramas](https://github.com/Braian-de-Liz/Tchuu-Tchuu)** — Ecossistema completo de telemetria e gestão ferroviária.  
 
   ✅ **Stack:** TypeScript, Fastify, PostgreSQL e WebSockets.  
-  ✅ **Validação:** Zod para schemas e validação de dados.  
   ✅ **Arquitetura:** Microserviços (Frontend, Backend e DB independentes).  
   ✅ **Segurança:** Autenticação JWT e hashing de senhas.  
 
