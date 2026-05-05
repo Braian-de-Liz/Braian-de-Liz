@@ -25,19 +25,18 @@ Olá! Sou estudante do **1º ano do Curso de Analise e Desenvolvimento de Sistem
 
 Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/> **TypeScript** — Base para construção de aplicações robustas e tipadas.
-- <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="20"/> **Fastify** — Framework back-end focado em performance e baixo overhead.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js** — Runtime principal de desenvolvimento.
-- <img src="https://bun.sh/logo.svg" alt="Bun" width="20"/> **Bun** — runtimes de execução Javascript, focado em performance e recursos inclusos.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20"/> **PostgreSQL** — Banco de dados relacional (SQL) para persistência de dados.
-- <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="20"/> **Drizzle ORM** — TypeScript ORM que combina a performance do SQL nativo com segurança de tipos em tempo de compilação, eliminando o overhead de abstrações pesadas.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="20"/> **Express** — Framework para APIs e middleware.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> **MySQL** — Gerenciamento de bancos de dados relacionais.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> **JavaScript (ES6+)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="20"/> **HTML5**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="20"/> **CSS3**
-- <img src="https://zod.dev/logo.svg" alt="Zod" width="20"/> **Zod** — Validação de dados com segurança e inferência de tipos em TypeScript.
-- <img src="https://github.com/sinclairzx81/typebox/raw/master/typebox.png" alt="TypeBox" width="20"/> **TypeBox** — Geração de schemas e validação performática para aplicações JSON.
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br>**TypeScript** | <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="40"/><br>**Fastify** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** |
+| Base para construção de aplicações robustas e tipadas. | Framework back-end focado em performance e baixo overhead. | Runtime principal de desenvolvimento. |
+| <img src="https://bun.sh/logo.svg" alt="Bun" width="40"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br>**PostgreSQL** | <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="40"/><br>**Drizzle ORM** |
+| Runtime de execução JavaScript focado em performance. | Banco de dados relacional para persistência de dados. | TypeScript ORM que combina performance do SQL com segurança de tipos. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/><br>**Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>**JavaScript** |
+| Framework para APIs e middleware. | Gerenciamento de bancos de dados relacionais. | Linguagem de programação dinâmica com ES6+. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/><br>**HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/><br>**CSS3** | <img src="https://cdn.simpleicons.org/zod" alt="Zod" width="40"/><br>**Zod** |
+| Linguagem de marcação para estruturação de conteúdo web. | Linguagem de estilização para design de páginas. | Validação de dados com segurança e inferência de tipos em TypeScript. |
+| <img src="https://raw.githubusercontent.com/sinclairzx81/sinclair-typebox/refs/heads/main/typebox.png" alt="TypeBox" width="40"/><br>**TypeBox** | | |
+| Geração de schemas e validação performática para JSON. | | |
 
 ---
 
@@ -45,12 +44,12 @@ Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
 
 Expandindo meu conhecimento técnico para novas ferramentas:
 
-- <img src="https://raw.githubusercontent.com/elysiajs/elysia/main/assets/elysia_lucia.png" alt="Elysia" width="20"/> **ElysiaJS** — Framework focado em performance extrema e integração nativa com Bun.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> **React** — Bibliotecas de interface modernas para SPAs.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="20"/> **Nest.js** — Framework opinativo para arquiteturas de back-end escaláveis.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20"/> **C#**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="20"/> **Go** — Linguagem de alta performance para sistemas concorrentes e escaláveis.
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" alt="Elysia" width="40"/><br>**ElysiaJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40"/><br>**NestJS** |
+| Framework focado em performance extrema e integração com Bun. | Biblioteca de interface modernas para SPAs. | Framework opinativo para arquiteturas de back-end escaláveis. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/><br>**C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/><br>**Go** |
+| Linguagem multiparadigma para backend e ciência de dados. | Linguagem orientada a objetos da Microsoft. | Linguagem de alta performance para sistemas concorrentes.
 
 ---
 
