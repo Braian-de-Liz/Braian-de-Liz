@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Sou estudante do **3º ano da Escola SESI de Referência**, apaixonado por tecnologia e em constante evolução no mundo da programação. Atualmente focado no desenvolvimento de aplicações de alta performance e sistemas escaláveis.
+Olá! Sou estudante do **1º ano do Curso de Analise e Desenvolvimento de Sistemas no UniSenai**, apaixonado por tecnologia e em constante evolução no mundo da programação. Atualmente focado no desenvolvimento de aplicações de alta performance e sistemas escaláveis.
 
 ---
 
@@ -28,7 +28,9 @@ Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/> **TypeScript** — Base para construção de aplicações robustas e tipadas.
 - <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="20"/> **Fastify** — Framework back-end focado em performance e baixo overhead.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20"/> **Node.js** — Runtime principal de desenvolvimento.
+- <img src="https://bun.sh/logo.svg" alt="Bun" width="20"/> **Bun** — runtimes de execução Javascript, focado em performance e recursos inclusos.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20"/> **PostgreSQL** — Banco de dados relacional (SQL) para persistência de dados.
+- <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="20"/> **Drizzle ORM** — TypeScript ORM que combina a performance do SQL nativo com segurança de tipos em tempo de compilação, eliminando o overhead de abstrações pesadas.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="20"/> **Express** — Framework para APIs e middleware.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> **MySQL** — Gerenciamento de bancos de dados relacionais.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> **JavaScript (ES6+)**
@@ -43,7 +45,6 @@ Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
 
 Expandindo meu conhecimento técnico para novas ferramentas:
 
-- <img src="https://bun.sh/logo.svg" alt="Bun" width="20"/> **Bun** — Exploração de novos runtimes e automação de pacotes.
 - <img src="https://raw.githubusercontent.com/elysiajs/elysia/main/assets/elysia_lucia.png" alt="Elysia" width="20"/> **ElysiaJS** — Framework focado em performance extrema e integração nativa com Bun.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20"/> **React** — Bibliotecas de interface modernas para SPAs.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="20"/> **Nest.js** — Framework opinativo para arquiteturas de back-end escaláveis.
