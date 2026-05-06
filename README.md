@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Sou estudante do **1º ano do Curso de Analise e Desenvolvimento de Sistemas no UniSenai**, apaixonado por tecnologia e em constante evolução no mundo da programação. Atualmente focado no desenvolvimento de aplicações de alta performance e sistemas escaláveis.
+Olá! Sou estudante do **1º ano do Curso de Analise e Desenvolvimento de Sistemas no UniSenai**, e também tenha uma **Formação Técnica em Desenvolvimento de Sistemas**. Me interesso muito em busca por performance, atualmente me especializando no ecossistema JS, onde estudo e busco entender profundamente as ferramentas que uso, Gosto muito do **Fastify** <img src="https://fastify.dev/img/logos/fastify-white.svg" width="50"> por sua boa DX e excelente performance sendo um dos 3 de performance do ecossistema, agora estou em foco para me usar um pouco o **Hono** <img src="https://hono.dev/images/logo.svg" width="20"> para pequenos seviços de alta demanda, irei também me aprofundar em **Golang** <img src="https://go.dev/images/go-logo-white.svg" width="30"> com foco maior ainda em performance e concorrência.
 
 ---
 
@@ -48,8 +48,8 @@ Expandindo meu conhecimento técnico para novas ferramentas:
 |:---:|:---:|:---:|
 | <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" alt="Elysia" width="40"/><br>**ElysiaJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40"/><br>**NestJS** |
 | Framework focado em performance extrema e integração com Bun. | Biblioteca de interface modernas para SPAs. | Framework opinativo para arquiteturas de back-end escaláveis. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/><br>**C#** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/><br>**Go** |
-| Linguagem multiparadigma para backend e ciência de dados. | Linguagem orientada a objetos da Microsoft. | Linguagem de alta performance para sistemas concorrentes.
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** | <img src="https://hono.dev/images/logo.svg" alt="Hono" width="40"/><br>**Hono** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/><br>**Go** |
+| Linguagem multiparadigma para backend e ciência de dados. | Framework ultraleve focado em portabilidade e performance no ecossistema JS. | Linguagem de alta performance para sistemas concorrentes.
 
 ---
 
