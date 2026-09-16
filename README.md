@@ -1,99 +1,127 @@
 # Sobre Mim
 
-Olá! Sou estudante do **1º ano do Curso de Analise e Desenvolvimento de Sistemas no UniSenai**, e também tenha uma **Formação Técnica em Desenvolvimento de Sistemas**. Me interesso muito em busca por performance, atualmente me especializando no ecossistema JS, onde estudo e busco entender profundamente as ferramentas que uso, Gosto muito do **Fastify** <img src="https://fastify.dev/img/logos/fastify-white.svg" width="50"> por sua boa DX e excelente performance sendo um dos 3 de performance do ecossistema, agora estou em foco para me usar um pouco o **Hono** <img src="https://hono.dev/images/logo.svg" width="20"> para pequenos seviços de alta demanda, irei também me aprofundar em **Golang** <img src="https://go.dev/images/go-logo-white.svg" width="30"> com foco maior ainda em performance e concorrência.
+Olá! Sou **Desenvolvedor Backend em formação**, com formação técnica em **Desenvolvimento de Sistemas** e atualmente cursando **Análise e Desenvolvimento de Sistemas no UniSenai**.
+
+Meu foco está no desenvolvimento de **APIs, sistemas Backend e aplicações orientadas a performance**, principalmente dentro do ecossistema **JavaScript/TypeScript**. Gosto de compreender profundamente as ferramentas que utilizo e entender as decisões técnicas por trás de uma arquitetura, em vez de apenas utilizá-las.
+
+Atualmente trabalho principalmente com **Node.js, Bun e Fastify**, explorando também o **Hono** para serviços menores e de baixo overhead. Paralelamente, venho aprofundando meus estudos em **Go**, linguagem que pretendo dominar especialmente pela sua abordagem para **concorrência, eficiência e construção de serviços Backend**, utilizando também o **Fiber** em meus estudos.
 
 ---
 
-## 📊 Atividades no Github
+## 📊 Atividades no GitHub
 
-<center>
-    <td align="center">
-      <strong>Linguagens Mais Usadas</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true" alt="Top Langs">
-    </table>
-    <td align="center">
-      <strong>Estatísticas Gerais</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=Braian-de-Liz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-    </td>
-   </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<strong>Linguagens Mais Usadas</strong><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braian-de-Liz&theme=github_dark&layout=compact&hide_border=true" alt="Linguagens mais usadas">
+</td>
+
+<td align="center">
+<strong>Estatísticas Gerais</strong><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Braian-de-Liz&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
+</td>
+</tr>
 </table>
-</center>
+
+</div>
 
 ---
 
 ## 🛠️ Stack de Desenvolvimento
 
-Minha "caixa de ferramentas" atual para o desenvolvimento Full-Stack:
+Minha stack atual é concentrada principalmente em **Backend**, com tecnologias para desenvolvimento de APIs, aplicações web, persistência de dados e validação.
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br>**TypeScript** | <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="40"/><br>**Fastify** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** |
-| Base para construção de aplicações robustas e tipadas. | Framework back-end focado em performance e baixo overhead. | Runtime principal de desenvolvimento. |
-| <img src="https://bun.sh/logo.svg" alt="Bun" width="40"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br>**PostgreSQL** | <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="40"/><br>**Drizzle ORM** |
-| Runtime de execução JavaScript focado em performance. | Banco de dados relacional para persistência de dados. | TypeScript ORM que combina performance do SQL com segurança de tipos. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/><br>**Express** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>**JavaScript** |
-| Framework para APIs e middleware. | Gerenciamento de bancos de dados relacionais. | Linguagem de programação dinâmica com ES6+. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/><br>**HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/><br>**CSS3** | <img src="https://cdn.simpleicons.org/zod" alt="Zod" width="40"/><br>**Zod** |
-| Linguagem de marcação para estruturação de conteúdo web. | Linguagem de estilização para design de páginas. | Validação de dados com segurança e inferência de tipos em TypeScript. |
-| <img src="https://raw.githubusercontent.com/sinclairzx81/sinclair-typebox/refs/heads/main/typebox.png" alt="TypeBox" width="40"/><br>**TypeBox** | | |
-| Geração de schemas e validação performática para JSON. | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br>**TypeScript** | <img src="https://cdn.simpleicons.org/fastify" alt="Fastify" width="40"/><br>**Fastify** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** |
+| Linguagem principal para desenvolvimento Backend type-safe. | Framework Backend focado em baixo overhead e performance. | Runtime consolidado para aplicações JavaScript Backend. |
+| <img src="https://bun.sh/logo.svg" alt="Bun" width="40"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br>**PostgreSQL** | <img src="https://cdn.simpleicons.org/prisma" alt="Prisma" width="40"/><br>**Prisma** |
+| Runtime JavaScript/TypeScript com foco em velocidade e baixo overhead. | Banco de dados relacional utilizado em aplicações Backend. | ORM type-safe para TypeScript e bancos relacionais. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/><br>**Express** | <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" width="40"/><br>**Drizzle ORM** |
+| Linguagem base do ecossistema em que desenvolvo. | Framework para construção de APIs e aplicações web. | ORM SQL-first com forte integração ao TypeScript. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>**MySQL** | <img src="https://cdn.simpleicons.org/zod" alt="Zod" width="40"/><br>**Zod** | <img src="https://raw.githubusercontent.com/sinclairzx81/sinclair-typebox/refs/heads/main/typebox.png" alt="TypeBox" width="40"/><br>**TypeBox** |
+| Banco de dados relacional. | Validação e definição de schemas com inferência de tipos. | Definição de schemas JSON com integração ao TypeScript. |
 
 ---
 
 ## 📚 Próximos Estudos
 
-Expandindo meu conhecimento técnico para novas ferramentas:
+Tecnologias que fazem parte da minha evolução técnica e que pretendo aprofundar:
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://avatars.githubusercontent.com/u/119793569?s=200&v=4" alt="Elysia" width="40"/><br>**ElysiaJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40"/><br>**NestJS** |
-| Framework focado em performance extrema e integração com Bun. | Biblioteca de interface modernas para SPAs. | Framework opinativo para arquiteturas de back-end escaláveis. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** | <img src="https://hono.dev/images/logo.svg" alt="Hono" width="40"/><br>**Hono** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/><br>**Go** |
-| Linguagem multiparadigma para backend e ciência de dados. | Framework ultraleve focado em portabilidade e performance no ecossistema JS. | Linguagem de alta performance para sistemas concorrentes.
+| <img src="https://hono.dev/images/logo.svg" alt="Hono" width="40"/><br>**Hono** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40"/><br>**NestJS** |
+| Framework ultraleve para APIs e serviços com baixo overhead. | Biblioteca para construção de interfaces e aplicações web. | Framework Backend para arquiteturas estruturadas e escaláveis. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40"/><br>**Go** | <img src="./assets/fiber.svg" alt="Fiber" width="40"/><br>**Fiber** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/><br>**Docker** |
+| Linguagem que pretendo dominar com foco em concorrência, eficiência e sistemas Backend. | Framework Go inspirado na ergonomia de frameworks web do ecossistema Express. | Conteinerização e ambientes de execução para aplicações e serviços. |
 
 ---
 
-### 💼 Projetos em Destaque
+## 💻 Projetos em Destaque
 
-- 🚆 **[TCHUU-TCHUU - Sistema de Gerenciamento de Ferroramas](https://github.com/Braian-de-Liz/Tchuu-Tchuu)** — Ecossistema completo de telemetria e gestão ferroviária.  
+### 🎵 [AMOTIF: Plataforma de Colaboração Musical Assíncrona](https://github.com/Braian-de-Liz)
 
-  ✅ **Stack:** TypeScript, Fastify, PostgreSQL e WebSockets.  
-  ✅ **Arquitetura:** Microserviços (Frontend, Backend e DB independentes).  
-  ✅ **Segurança:** Autenticação JWT e hashing de senhas.  
+Plataforma Backend para colaboração musical assíncrona, permitindo que músicos trabalhem em diferentes camadas, versões e projetos sem depender de comunicação em tempo real.
 
-  → Meu projeto principal que aplica **Sistemas Distribuídos** e **Engenharia de Software**.
+**Stack:** TypeScript, Bun, Fastify, PostgreSQL (NeonDB), Prisma, JWT, Cookies HTTP-only, TypeBox e Render.
 
-- 📦 **[br_standards_with_zod](https://github.com/Braian-de-Liz/br_standards_with_zod)** — Biblioteca npm para validação de documentos brasileiros com integração nativa ao Zod.
+**Destaques de Engenharia & Performance:**
 
-  [![npm version](https://img.shields.io/npm/v/br_standards_with_zod.svg)](https://www.npmjs.com/package/br_standards_with_zod)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)](https://www.typescriptlang.org/)
+- **Performance sob carga com acesso ao banco:** atingiu **+2.900 req/s**, com latência **p99 inferior a 50 ms**, em testes de estresse com alta concorrência e consultas ao banco de dados, sem utilização de cache.
+- **Validação de JSON:** atingiu aproximadamente **16.000 req/s** em cenários envolvendo estruturas com arrays aninhados.
+- **I/O puro:** atingiu aproximadamente **48.000 req/s** em testes isolados de operações de I/O.
+- **Cobertura de testes:** suíte com **+130 testes automatizados**, entre testes unitários e de integração, cobrindo fluxos de sucesso e cenários de exceção.
+- **Arquitetura resiliente:** tratamento estruturado de erros, invalidação de sessões por meio de **Cookies HTTP-only**, validação de entrada com **TypeBox** e gerenciamento de arquivos.
+- **Backend type-safe:** utilização de **TypeScript + TypeBox + Prisma** para manter consistência entre contratos, validação e acesso aos dados.
+- **Banco de dados:** PostgreSQL hospedado na **Neon**, integrado ao Backend por meio do Prisma.
+- **Runtime:** desenvolvido sobre **Bun**, utilizando **Fastify** como framework HTTP.
 
-  ✅ **Validação real:** Cálculo matemático de dígitos verificadores (CPF, CNPJ).  
-  ✅ **Padrões oficiais:** DDDs da Anatel e nono dígito para celulares.  
-  ✅ **Aceita máscara ou não:** Normalização automática de entradas.  
-  ✅ **Transformação automática:** Retorno apenas números/letras relevantes.  
-  ✅ **Integração nativa com Zod:** Sem necessidade de `refine` manual.  
-  ✅ **Dual build:** Compatível com ESM e CommonJS.  
+---
 
-  ```typescript
-  import { z } from 'zod';
-  import { zbr } from 'br_standards_with_zod';
+### 🚆 [TCHUU-TCHUU: Sistema de Gerenciamento de Ferroramas](https://github.com/Braian-de-Liz/Tchuu-Tchuu)
 
-  const userSchema = z.object({
-    cpf: zbr.cpf("CPF inválido"),
-    tel: zbr.tel("Telefone fora do padrão"),
-    cnpj: zbr.cnpj(),
-    cep: zbr.cep()
-  });
-´´´
-Minha primeira biblioteca pública no npm, demonstrando TypeScript avançado, integração com ecossistema Zod e publicação de pacotes.
+Ecossistema para gerenciamento e telemetria de uma estrutura ferroviária, utilizando comunicação em tempo real entre diferentes componentes do sistema.
 
+**Stack:** TypeScript, Fastify, PostgreSQL e WebSockets.
 
+**Conceitos aplicados:**
 
- Vamos nos conectar?
- E-mail: delizbraian@gmail.com
+- Sistemas distribuídos
+- Comunicação em tempo real
+- APIs Backend
+- Autenticação
+- Arquitetura modular
 
- LinkedIn: Braian De Liz da Silva
+---
 
- WhatsApp: +55 (47) 93380-3828
+### 📦 [br_standards_with_zod](https://github.com/Braian-de-Liz/br_standards_with_zod)
+
+Biblioteca publicada no npm para validação e normalização de documentos e padrões brasileiros, com integração nativa ao Zod.
+
+[![npm version](https://img.shields.io/npm/v/br_standards_with_zod.svg)](https://www.npmjs.com/package/br_standards_with_zod)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript)](https://www.typescriptlang.org/)
+
+**Recursos:**
+
+- Validação matemática de CPF e CNPJ
+- Validação de CEP e telefone
+- Validação de DDD
+- Normalização automática de entradas
+- Suporte a valores com ou sem máscara
+- Integração nativa com Zod
+- Build ESM e CommonJS
+
+```ts
+import { z } from "zod";
+import { zbr } from "br_standards_with_zod";
+
+const userSchema = z.object({
+  cpf: zbr.cpf("CPF inválido"),
+  tel: zbr.tel("Telefone fora do padrão"),
+  cnpj: zbr.cnpj(),
+  cep: zbr.cep()
+});
