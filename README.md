@@ -1,10 +1,24 @@
-# Braian de Liz da Silva
+<div align="center">
 
-**Desenvolvedor de sistemas com foco em backend** TypeScript, Bun, Fastify, PostgreSQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Braian%20de%20Liz%20da%20Silva&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20sistemas%20com%20foco%20em%20backend&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Banner"/>
 
-Construo APIs e serviços em JavaScript e TypeScript com atenção a arquitetura, consistência de dados e custo de execução. Decido por medição, não por preferência: comparo alternativas sob carga antes de escolher a stack.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=APIs+e+servi%C3%A7os+com+arquitetura+consciente;Performance+medida%2C+n%C3%A3o+presumida;TypeScript+%C2%B7+Node.js+%C2%B7+Bun+%C2%B7+Fastify+%C2%B7+PostgreSQL" alt="Frases em digitação" />
 
-[Portfólio](https://portfolio-braian.onrender.com) · [LinkedIn](https://www.linkedin.com/in/braian-de-liz-da-silva-47385038b/) · contato pelo portfólio
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<a href="https://portfolio-braian.onrender.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/braian-de-liz-da-silva-47385038b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
 
 ---
 
@@ -24,10 +38,10 @@ Cada item tem evidência de uso nos projetos abaixo.
 |:--|:--|
 | Linguagens | TypeScript, JavaScript |
 | Runtime e API | Bun, Node.js, Fastify |
-| Dados e validação | PostgreSQL, Prisma, TypeBox, Zod |
+| Dados e validação | PostgreSQL, Prisma, Drizzle, TypeBox, Zod |
 | Qualidade | Vitest, Autocannon |
 
-**Em estudo:** Go (concorrência e profiling), MCP e agentes de IA. Ainda não são domínio consolidado.
+> **Em estudo:** Go (concorrência e profiling), MCP e agentes de IA. Ainda não são domínio consolidado.
 
 ---
 
@@ -46,6 +60,14 @@ Cada item tem evidência de uso nos projetos abaixo.
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Braian-de-Liz&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Braian-de-Liz&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" width="100%" />
 </div>
 
 ---
@@ -118,3 +140,13 @@ Monitoramento ferroviário em que a telemetria de sensores chega por WebSocket e
 - 881 commits
 - Frontend em JavaScript puro, escolha deliberada para exercitar fundamentos
 - CORS restrito ao domínio do próprio frontend
+
+---
+
+<div align="center">
+
+<sub>Feito com medição antes de decisão.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" alt="" />
+
+</div>
