@@ -22,11 +22,13 @@
 
 ---
 
-## Como eu decido
+## Como eu tomo decisões técnicas
 
-- **Performance medida, não presumida.** O TypeMarks nasceu para quantificar quanto a validação de contratos custa em throughput.
-- **Arquitetura proporcional ao problema.** No AMOTIF abri mão de camadas MVC que não pagavam seu custo: cada rota é um plugin Fastify que acessa os dados diretamente, com hooks para autenticação e autorização.
-- **Consistência na fronteira.** Valido na entrada com schemas executáveis, para que dado inválido não chegue à regra de negócio nem ao banco.
+Escolho stack e arquitetura por medição e pelo custo real de cada camada, não por preferência.
+
+- **Medir antes de escolher.** O TypeMarks nasceu para quantificar quanto a validação de contratos custa em throughput.
+- **Arquitetura do tamanho do problema.** No AMOTIF abri mão de camadas MVC que não se pagavam: cada rota é um plugin Fastify que acessa os dados direto, com hooks de autenticação e autorização.
+- **Validar na entrada.** Uso schemas executáveis nas rotas, para que dado inválido seja barrado antes de chegar à regra de negócio e ao banco.
 
 ---
 
